@@ -1,0 +1,29 @@
+2022-01-13 00:17:07,052  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-01-13 00:17:15,817 127.0.0.1 - - [13/Jan/2022 00:17:15] "GET / HTTP/1.1" 200 -
+2022-01-13 00:17:15,853 127.0.0.1 - - [13/Jan/2022 00:17:15] "GET /static/css/style.css HTTP/1.1" 304 -
+2022-01-13 00:17:23,903 127.0.0.1 - - [13/Jan/2022 00:17:23] "POST /update HTTP/1.1" 200 -
+2022-01-13 00:17:23,934 127.0.0.1 - - [13/Jan/2022 00:17:23] "GET /style.css HTTP/1.1" 404 -
+2022-01-13 00:17:23,937 127.0.0.1 - - [13/Jan/2022 00:17:23] "GET /static/css/style.css HTTP/1.1" 304 -
+2022-01-13 00:18:07,358  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-01-13 00:18:21,351  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-01-13 00:18:37,700 127.0.0.1 - - [13/Jan/2022 00:18:37] "GET / HTTP/1.1" 200 -
+2022-01-13 00:18:37,745 127.0.0.1 - - [13/Jan/2022 00:18:37] "GET /static/css/style.css HTTP/1.1" 304 -
+2022-01-13 00:18:48,203 127.0.0.1 - - [13/Jan/2022 00:18:48] "POST /update HTTP/1.1" 200 -
+2022-01-13 00:18:48,232 127.0.0.1 - - [13/Jan/2022 00:18:48] "GET /style.css HTTP/1.1" 404 -
+2022-01-13 00:18:48,235 127.0.0.1 - - [13/Jan/2022 00:18:48] "GET /static/css/style.css HTTP/1.1" 304 -
+2022-01-13 00:19:32,621  This is logger of my application and below is the server on which application is running
+2022-01-13 00:19:33,484  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-01-13 00:19:41,708 127.0.0.1 - - [13/Jan/2022 00:19:41] "GET / HTTP/1.1" 200 -
+2022-01-13 00:19:41,772 127.0.0.1 - - [13/Jan/2022 00:19:41] "GET /static/css/style.css HTTP/1.1" 304 -
+2022-01-13 00:19:49,262 Record  asas and 1212 are inserted successfully
+2022-01-13 00:19:49,266 127.0.0.1 - - [13/Jan/2022 00:19:49] "POST /update HTTP/1.1" 200 -
+2022-01-13 00:19:49,296 127.0.0.1 - - [13/Jan/2022 00:19:49] "GET /style.css HTTP/1.1" 404 -
+2022-01-13 00:19:49,298 127.0.0.1 - - [13/Jan/2022 00:19:49] "GET /static/css/style.css HTTP/1.1" 304 -
+2022-01-13 00:22:00,742  This is logger of my application and below is the server on which application is running
+2022-01-13 00:22:01,424  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-01-13 00:22:07,883 127.0.0.1 - - [13/Jan/2022 00:22:07] "GET / HTTP/1.1" 200 -
+2022-01-13 00:22:07,921 127.0.0.1 - - [13/Jan/2022 00:22:07] "GET /static/css/style.css HTTP/1.1" 304 -
+2022-01-13 00:22:14,531 Record  asasas and 1111 are inserted successfully
+2022-01-13 00:22:14,535 127.0.0.1 - - [13/Jan/2022 00:22:14] "POST /update HTTP/1.1" 200 -
+2022-01-13 00:22:14,564 127.0.0.1 - - [13/Jan/2022 00:22:14] "GET /style.css HTTP/1.1" 404 -
+2022-01-13 00:22:14,568 127.0.0.1 - - [13/Jan/2022 00:22:14] "GET /static/css/style.css HTTP/1.1" 304 -
